@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dawid Herman
--  I’m Cybersecurity enginner, climber,Tech, Climbing and Motorsport enthusiast who believes that optimism and good faith can move mountains.
+-  I’m Cybersecurity enginner, climber. Climbing and Motorsport enthusiast who believes that optimism and good faith can move mountains.
 - 🌱 My skills are Incidents response, pentest , analysis malware. Programing Language : Python,JavaScript,PHP. 
 - Ask Me About Cybersecurity , Climbing and which eninge is good for your car:). 
 - 📫 How to reach me , dawidherman68@gmail.com
